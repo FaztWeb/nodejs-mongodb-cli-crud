@@ -38,8 +38,7 @@ tasks-cli find title
 
 ```sh
 tasks-cli save
-tasks-cli save title description
-tasks-cli s title description
+tasks-cli s
 ```
 
 ```sh
